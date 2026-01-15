@@ -11,6 +11,10 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		27EB366C8D3245A4915353C4 /* digital-7 (italic).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75A71B0D24744AA18BBA8C9F /* digital-7 (italic).ttf */; };
+		19D63A8BD54046BEAB6C64C7 /* digital-7 (mono italic).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 820B279CD43448BD865D37F6 /* digital-7 (mono italic).ttf */; };
+		DDC506910AC9445FBDA4097B /* digital-7 (mono).ttf in Resources */ = {isa = PBXBuildFile; fileRef = 41E114C6D8BD428A9237026E /* digital-7 (mono).ttf */; };
+		8D57F0A6B7DE48F1B0948F4C /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1012366E194B4065ACE8C4A6 /* digital-7.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = SpeakeasyEscape/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SpeakeasyEscape/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		75A71B0D24744AA18BBA8C9F /* digital-7 (italic).ttf */ = {isa = PBXFileReference; name = "digital-7 (italic).ttf"; path = "../assets/fonts/digital-7 (italic).ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		820B279CD43448BD865D37F6 /* digital-7 (mono italic).ttf */ = {isa = PBXFileReference; name = "digital-7 (mono italic).ttf"; path = "../assets/fonts/digital-7 (mono italic).ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		41E114C6D8BD428A9237026E /* digital-7 (mono).ttf */ = {isa = PBXFileReference; name = "digital-7 (mono).ttf"; path = "../assets/fonts/digital-7 (mono).ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1012366E194B4065ACE8C4A6 /* digital-7.ttf */ = {isa = PBXFileReference; name = "digital-7.ttf"; path = "../assets/fonts/digital-7.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +82,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9BBCC5ED15134F27A2A2A67D /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +105,18 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		9BBCC5ED15134F27A2A2A67D /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				75A71B0D24744AA18BBA8C9F /* digital-7 (italic).ttf */,
+				820B279CD43448BD865D37F6 /* digital-7 (mono italic).ttf */,
+				41E114C6D8BD428A9237026E /* digital-7 (mono).ttf */,
+				1012366E194B4065ACE8C4A6 /* digital-7.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -159,6 +180,10 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				27EB366C8D3245A4915353C4 /* digital-7 (italic).ttf in Resources */,
+				19D63A8BD54046BEAB6C64C7 /* digital-7 (mono italic).ttf in Resources */,
+				DDC506910AC9445FBDA4097B /* digital-7 (mono).ttf in Resources */,
+				8D57F0A6B7DE48F1B0948F4C /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

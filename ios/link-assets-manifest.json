@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/digital-7 (italic).ttf",
+      "sha1": "1fde078a6ca1e6bf234096ee147be662c66487f0"
+    },
+    {
+      "path": "assets/fonts/digital-7 (mono italic).ttf",
+      "sha1": "62d8d2ddc793efc4eac182300f173654a55f2e7e"
+    },
+    {
+      "path": "assets/fonts/digital-7 (mono).ttf",
+      "sha1": "5049a2efa785949f9f101334aac778fd9bd5b96b"
+    },
+    {
+      "path": "assets/fonts/digital-7.ttf",
+      "sha1": "e76e159f9de13b1c91e03c2933b3f9454788050e"
+    }
+  ]
+}
